@@ -30,7 +30,7 @@ Ghost World是Zeroverse生成的第一個子世界，這個世界包含多達800
 
 ****[**Earnpower（獲得ZVC代幣）**](../kuai-su-kai-shi/huo-de-zvc-dai-bi.md)****
 
-****[**普通角色和NFT角色區別**](earnpower-huo-de-zvc-dai-bi.md)****
+****[**普通角色和NFT角色區別**](earnpower.md)****
 
 ****[**重要資源-魂石**](zhong-yao-zi-yuan-hun-shi.md)****
 

@@ -12,7 +12,7 @@
   * [故事背景](zeroverseghost-world-jie-shao/gu-shi-bei-jing.md)
   * [核心戰鬥](zeroverseghost-world-jie-shao/he-xin-zhan-dou.md)
   * [角色屬性](zeroverseghost-world-jie-shao/jiao-se-shu-xing.md)
-  * [Earnpower（獲得ZVC代幣）](zeroverseghost-world-jie-shao/earnpower-huo-de-zvc-dai-bi.md)
+  * [Earnpower](zeroverseghost-world-jie-shao/earnpower.md)
   * [普通角色和NFT角色區別](zeroverseghost-world-jie-shao/pu-tong-jiao-se-he-nft-jiao-se-qu-bie.md)
   * [重要資源-魂石](zeroverseghost-world-jie-shao/zhong-yao-zi-yuan-hun-shi.md)
 * [🪙 生態通證：ZVC](sheng-tai-tong-zheng-zvc.md)
