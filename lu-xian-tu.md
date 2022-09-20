@@ -28,8 +28,8 @@
 |         | 盲盒發售                            | 进行中⏳   |
 |         | ZVC上架DEX                        |        |
 |         | Zeroverse-Ghost正式上線             |        |
-| Q3 2022 | 時空領主                            |        |
+| Q4 2022 | 時空領主                            |        |
 |         | 時空行者                            |        |
 |         | 官網改版                            |        |
-| Q4 2022 | Zeroverse-Magic World測試         |        |
-|         | Zeroverse-Gods World測試          |        |
+| Q1 2023 | Zeroverse-Magic World測試         |        |
+| Q2 2023 | Zeroverse-Gods World測試          |        |
